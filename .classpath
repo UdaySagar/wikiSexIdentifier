@@ -74,5 +74,11 @@
 	<classpathentry kind="lib" path="/home/udaysagar/Downloads/spring-framework-4.2.5.RELEASE/libs/spring-beans-4.2.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="/home/udaysagar/Downloads/spring-framework-4.2.5.RELEASE/libs/spring-core-4.2.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="/home/udaysagar/Downloads/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/udaysagar/workspace_spring/wikiSexIdentifier/WikipediaSpecialExportModeler/stanford-postagger/stanford-postagger-3.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/udaysagar/workspace_spring/wikiSexIdentifier/WikipediaSpecialExportModeler/stanford-postagger/slf4j-simple.jar"/>
+	<classpathentry kind="lib" path="/home/udaysagar/workspace_spring/wikiSexIdentifier/WikipediaSpecialExportModeler/stanford-postagger/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="/home/udaysagar/Downloads/stanford-postagger-full-2015-12-09/stanford-postagger-3.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="/home/udaysagar/Downloads/stanford-postagger-full-2015-12-09/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="/home/udaysagar/Downloads/stanford-postagger-full-2015-12-09/stanford-postagger-3.6.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
